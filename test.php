@@ -7,6 +7,6 @@ $float = 0.2f;
 
 class Test extends MyClass, YourClass
 {
-  
+  $regexp = /*./s;
   
 }
