@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <!--[if lt IE 7]>
 <<html class="no-js"> <!--<![endif]-->
 <head>
